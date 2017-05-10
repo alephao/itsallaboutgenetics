@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+      "target": "es5",
+      "module": "commonjs",
+      "sourceMap": true
+    //   "outFile": "dist/js/tsc.js"
+  },
+  "exclude": [
+      "node_modules"
+  ],
+  "compileOnSave": false
+}
